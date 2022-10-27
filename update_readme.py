@@ -154,7 +154,7 @@ def build_row(data: Dict) -> str:
 
     return row
 
-
+#this is where main function start
 if __name__ == "__main__":
     init()
 
